@@ -1,6 +1,6 @@
-//before node to run js it was necessary to use script tag inside html but in node its possible to run with html
 
-console.log("hello world , welcome to node js learning session");
+function wish(name){
+    console.log("hello  "+name+"  welcome to node.js")
+}
 
-//to run js file in node js environment syntax followed is 
-// node <file name> eg: node index.js
+wish('Kavya');
