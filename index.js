@@ -4,3 +4,5 @@ function wish(name){
 }
 
 wish('Kavya');
+
+//to run node index.js
